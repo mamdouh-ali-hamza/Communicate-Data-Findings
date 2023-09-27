@@ -1,6 +1,8 @@
 # Ford GoBike System Data Findings:
 ## by Mamdouh Ali
 
+<img width="641" alt="Ford GoBike System Data Findings" src="https://github.com/mamdouh-ali-hamza/Communicate-Data-Findings/assets/92183830/e3918ca9-8918-46ce-aca5-25fad259e223">
+
 
 ## Dataset
 
